@@ -1,2 +1,5 @@
 1.0.0
   - Created AI Description Generator (with auto-updater)
+1.1.0
+  - Prompt the user when there is an update available
+  - Auto-update the updater
