@@ -3,3 +3,7 @@
 1.1.0
   - Prompt the user when there is an update available
   - Auto-update the updater
+1.1.1
+  - Update to OpenAI's GPT-4o (from GPT-4 Turbo)
+  - It's much faster and better and cheaper
+  - Made other smaller changes :)

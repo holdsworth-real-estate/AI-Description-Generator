@@ -1,2 +1,5 @@
 1.0.0
   - Created Advertising Description Generator - UPDATER.exe
+1.1.0
+  - Fixed changelog not displaying correctly
+  - Pulled some magic behind the scenes
